@@ -1,6 +1,6 @@
 # ДЗ 1 «Фотолаборатория» — отчёт
 
-**Автор:** Iamaletdinov_Vadim· **Группа / трек:** MFAI-03· **Дата сдачи:** 11.10.2026
+**Автор:** Iamaletdinov_Vadim· **Группа / трек:** MFAI-03 · **Дата сдачи:** 11.10.2026
 
 ## 1. Числа
 
@@ -98,4 +98,4 @@ python photolab.py sheet data/dark.jpg data/bright.jpg data/object.jpg data/bg.j
 ```
 
 ## 5. Инструменты
-
+ChatGPT helping
