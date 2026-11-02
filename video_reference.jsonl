@@ -1,3 +1,0 @@
-{"command": "video", "source": "sample_data/clip.mp4", "method": "contour", "frames": 60, "seconds": 4.32, "fps": 13.9, "found_pct": 75.0, "detect_ms_median": 57.8}
-{"command": "video", "source": "sample_data/clip.mp4", "method": "hough", "frames": 60, "seconds": 9.84, "fps": 6.1, "found_pct": 75.0, "detect_ms_median": 108.7}
-{"command": "video", "source": "sample_data/clip.mp4", "method": "auto", "frames": 60, "seconds": 6.69, "fps": 9.0, "found_pct": 75.0, "detect_ms_median": 88.7}
