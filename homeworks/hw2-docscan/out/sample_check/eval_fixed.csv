@@ -1,0 +1,6 @@
+file,sheet,contour_found,contour_iou,contour_ms,hough_found,hough_iou,hough_ms,auto_found,auto_iou,auto_ms,auto_path
+corner.jpg,True,False,0.0,241.8,True,0.995,104.4,True,0.995,119.2,hough
+desk.jpg,True,True,0.994,37.1,True,0.998,68.0,True,0.994,38.7,contour
+nosheet.jpg,False,False,,117.6,False,,48.6,False,,163.4,
+plain.jpg,True,True,0.989,57.9,True,0.993,71.5,True,0.989,30.0,contour
+tiles.jpg,True,True,0.98,49.7,False,0.0,75.4,True,0.98,37.3,contour
