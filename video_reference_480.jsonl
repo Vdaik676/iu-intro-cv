@@ -1,0 +1,1 @@
+{"command": "video", "source": "sample_data/clip.mp4", "method": "auto", "frames": 60, "seconds": 2.85, "fps": 21.0, "found_pct": 75.0, "detect_ms_median": 37.6}
